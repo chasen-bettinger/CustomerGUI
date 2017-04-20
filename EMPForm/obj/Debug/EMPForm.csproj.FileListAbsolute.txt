@@ -1,0 +1,20 @@
+c:\users\bettingercr\documents\visual studio 2015\Projects\EMPForm\EMPForm\bin\Debug\EMPForm.exe.config
+c:\users\bettingercr\documents\visual studio 2015\Projects\EMPForm\EMPForm\bin\Debug\EMPForm.exe
+c:\users\bettingercr\documents\visual studio 2015\Projects\EMPForm\EMPForm\bin\Debug\EMPForm.pdb
+c:\users\bettingercr\documents\visual studio 2015\Projects\EMPForm\EMPForm\obj\Debug\EMPForm.csprojResolveAssemblyReference.cache
+c:\users\bettingercr\documents\visual studio 2015\Projects\EMPForm\EMPForm\obj\Debug\EMPForm.Form1.resources
+c:\users\bettingercr\documents\visual studio 2015\Projects\EMPForm\EMPForm\obj\Debug\EMPForm.Properties.Resources.resources
+c:\users\bettingercr\documents\visual studio 2015\Projects\EMPForm\EMPForm\obj\Debug\EMPForm.csproj.GenerateResource.Cache
+c:\users\bettingercr\documents\visual studio 2015\Projects\EMPForm\EMPForm\obj\Debug\EMPForm.exe
+c:\users\bettingercr\documents\visual studio 2015\Projects\EMPForm\EMPForm\obj\Debug\EMPForm.pdb
+D:\EMPForm\EMPForm\bin\Debug\EMPForm.exe.config
+D:\EMPForm\EMPForm\bin\Debug\EMPForm.exe
+D:\EMPForm\EMPForm\bin\Debug\EMPForm.pdb
+D:\EMPForm\EMPForm\obj\Debug\EMPForm.csprojResolveAssemblyReference.cache
+D:\EMPForm\EMPForm\obj\Debug\EMPForm.Form1.resources
+D:\EMPForm\EMPForm\obj\Debug\EMPForm.Properties.Resources.resources
+D:\EMPForm\EMPForm\obj\Debug\EMPForm.csproj.GenerateResource.Cache
+D:\EMPForm\EMPForm\obj\Debug\EMPForm.exe
+D:\EMPForm\EMPForm\obj\Debug\EMPForm.pdb
+D:\EMPForm\EMPForm\bin\Debug\Customers.mdf
+D:\EMPForm\EMPForm\bin\Debug\Customers_log.ldf
